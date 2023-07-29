@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/netflix/static/css/main.9477178d.css",
+    "main.js": "/github.io/netflix/static/js/main.1e61c8cf.js",
+    "static/media/logo.png": "/github.io/netflix/static/media/logo.5b38a2c389cdb4565fc2.png",
+    "index.html": "/github.io/netflix/index.html",
+    "static/media/reportWebVitals": "/github.io/netflix/static/media/reportWebVitals.31d6cfe0d16ae931b73c",
+    "main.9477178d.css.map": "/github.io/netflix/static/css/main.9477178d.css.map",
+    "main.1e61c8cf.js.map": "/github.io/netflix/static/js/main.1e61c8cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9477178d.css",
+    "static/js/main.1e61c8cf.js"
+  ]
+}
