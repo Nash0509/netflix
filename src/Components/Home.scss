@@ -1,0 +1,48 @@
+.genre {
+    &:hover {
+        background-color: skyblue;
+    }
+}
+
+.row {
+    background-color: black;
+    padding: 1rem;
+    h2 {
+       color: white;
+       font-weight: 400;
+       margin: 0.3rem;
+    }
+    div {
+        display: flex;
+        overflow-x: auto;
+       
+       
+
+    }
+
+}
+
+.card {
+    margin: 0.1rem;
+    width: 180px;
+    cursor: pointer;
+    transition: transform 0.5s;
+    height: 230px;
+    
+    &:hover {
+        transform: translate(-10px) scale(1.1);
+
+    }
+}
+
+.info {
+    color: white;
+}
+
+.scroll::-webkit-scrollbar {
+       display: none;
+}
+
+.scroll {
+    scrollbar-width: none;
+}
